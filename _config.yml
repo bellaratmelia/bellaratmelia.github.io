@@ -21,7 +21,7 @@ repository               : "bellaratmelia/bellaratmelia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bella-profile.jpg"
   name             : "Bella Ratmelia"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Works in a library, prefers e-book."
