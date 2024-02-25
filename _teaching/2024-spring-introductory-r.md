@@ -1,5 +1,5 @@
 ---
-title: "Introductory R for Social Sciences"
+title: "Introductory R for Social Sciences (2024)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2024-spring-introductory-r

@@ -11,41 +11,60 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc in Information Studies, Nanyang Technological University, 2018
+* Bachelor of Information Technology, University of Wollongong, 2015
+* Diploma in Information Technology, Singapore Polytechnic, 2011
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### **Singapore Management University**, Singapore  
+#### *June 2021 - Present* | Data Services Librarian 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Provided research and data support to SMU community throughout the research lifecycle, primarily on data collection and analysis.
+Conducted multiple coding for research workshops in Python and R with consistently satisfactory feedback from participants (>86% participants would recommend the workshop to others)
+* Led and coordinated SMU Libraries’ inaugural AI hackathon 2023 which resulted in a research project to implement the winning prototype.
+* Founding member of SMU Researcher Club, an initiative to engage researcher staff in SMU to foster collaboration and knowledge sharing among researchers. 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### **Nanyang Technological University**, Singapore 
+#### *February 2019 - June 2021* | Librarian
+#### *August 2015 - January 2019* | Assistant Librarian
+
+* Designed and developed more than 30  information and digital literacy classes for undergraduates and postgraduates. On average, the classes received a 95% satisfaction rating based on students feedback. 
+* Led a User Experience (UX) research project that evaluates the usability of the Library’s discovery platform and Subject Guides.
+* Developed and executed social media campaigns with the outreach team to promote the Library’s resources.  The campaigns generated a 98% increase of followers to NTU Library’s Instagram account in just one year.
+* Developed final year project (FYP) collection database for Wee Kim Wee School of Communication and Information (WKWSCI) with communication subject librarian. 
+* Helped expand the collaboration with NTU faculty to create and customize at least 100 course blogs and research websites to assist with the university’s teaching and research activities.
+
+
+#### *January 2013 - July 2015* | Library Executive
+* Contributed to the migration project of blogs@NTU from in-house hosting to a cloud-hosted solution; Drafted the ITQ technical requirements, conducted vendor evaluation, developed and executed the plan for change communication.
+* Developed WordPress self-help guides and conducted at least 10 customized WordPress workshops in total to NTU faculty, staff and students. 
+* Provided technical customisations service and consultations to blogs@NTU projects.
+
+### **Tyler Projects Pte Ltd**, Singapore 
+#### *September 2011 - December 2012* | Game Developer
+* Part of a small and agile team of three developers for the Facebook game “Social Life”.
+* Developed the integration with players’ Facebook account using Facebook API
+* Developed parts of the gameplay mechanics using ActionScript3, PHP, and JavaScript.
+* Developed the frontend user interface using HTML, CSS and JavaScript.
+* Designed and developed the tutorial section of the game to entice and teach new players.
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical skills: PHP, JavaScript, HTML/CSS, SQL, Python, R.
+* Tools: GitHub, WordPress, LibGuides.
+* Liaison and instructions.
+* Research methods in social sciences.
+* Research data lifecycle and management. 
 
+<!--- 
 Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# ======
+#  <ul>{% for post in site.publications reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul> 
+-->
   
 Talks
 ======
@@ -59,6 +78,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Honors & Awards
 ======
-* Currently signed in to 43 different slack teams
+* Winner of LAS Library School Scholarship 2017
+
+Professional Engagements
+======
+* *June 2019 - May 2023* | Council Member of Library Association Singapore, Chair of the IT Committee
+
