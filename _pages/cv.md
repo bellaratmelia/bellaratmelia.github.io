@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 ### **Singapore Management University**, Singapore  
-#### *June 2021 - Present* | Data Services Librarian 
+**Data Services Librarian** *(June 2021 - Present)* 
 
 * Provided research and data support to SMU community throughout the research lifecycle, primarily on data collection and analysis.
 Conducted multiple coding for research workshops in Python and R with consistently satisfactory feedback from participants (>86% participants would recommend the workshop to others)
@@ -26,8 +26,8 @@ Conducted multiple coding for research workshops in Python and R with consistent
 * Founding member of SMU Researcher Club, an initiative to engage researcher staff in SMU to foster collaboration and knowledge sharing among researchers. 
 
 ### **Nanyang Technological University**, Singapore 
-#### *February 2019 - June 2021* | Librarian
-#### *August 2015 - January 2019* | Assistant Librarian
+**Librarian** *(February 2019 - June 2021)*   
+**Assistant Librarian** *(August 2015 - January 2019)*
 
 * Designed and developed more than 30  information and digital literacy classes for undergraduates and postgraduates. On average, the classes received a 95% satisfaction rating based on students feedback. 
 * Led a User Experience (UX) research project that evaluates the usability of the Library’s discovery platform and Subject Guides.
@@ -36,13 +36,13 @@ Conducted multiple coding for research workshops in Python and R with consistent
 * Helped expand the collaboration with NTU faculty to create and customize at least 100 course blogs and research websites to assist with the university’s teaching and research activities.
 
 
-#### *January 2013 - July 2015* | Library Executive
+**Library Executive** *(January 2013 - July 2015)*
 * Contributed to the migration project of blogs@NTU from in-house hosting to a cloud-hosted solution; Drafted the ITQ technical requirements, conducted vendor evaluation, developed and executed the plan for change communication.
 * Developed WordPress self-help guides and conducted at least 10 customized WordPress workshops in total to NTU faculty, staff and students. 
 * Provided technical customisations service and consultations to blogs@NTU projects.
 
 ### **Tyler Projects Pte Ltd**, Singapore 
-#### *September 2011 - December 2012* | Game Developer
+**Game Developer** *(September 2011 to December 2012)* 
 * Part of a small and agile team of three developers for the Facebook game “Social Life”.
 * Developed the integration with players’ Facebook account using Facebook API
 * Developed parts of the gameplay mechanics using ActionScript3, PHP, and JavaScript.
@@ -80,9 +80,9 @@ Teaching
   
 Honors & Awards
 ======
-* Winner of LAS Library School Scholarship 2017
+* Winner of Library Association Singapore (LAS) Library School Scholarship 2017
 
 Professional Engagements
 ======
-* *June 2019 - May 2023* | Council Member of Library Association Singapore, Chair of the IT Committee
+* Council Member of Library Association Singapore (LAS), Chair of the IT Committee (June 2019 - May 2023)
 
