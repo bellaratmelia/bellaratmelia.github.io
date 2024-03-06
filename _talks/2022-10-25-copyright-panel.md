@@ -1,7 +1,7 @@
 ---
 title: "Panel Discussion on Text and Data Mining"
 collection: talks
-type: "Talk"
+type: "Panel Discussion"
 permalink: /talks/2022-10-25-copyright-panel
 venue: "SAUL Copyright Seminar 2022"
 date: 2022-10-25
