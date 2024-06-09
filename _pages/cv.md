@@ -18,7 +18,8 @@ Education
 Work experience
 ======
 ### **Singapore Management University**, Singapore  
-**Data Services Librarian** *(June 2021 - Present)* 
+**Senior Librarian, Research & Data Services** *(April 2024 - Present)*   
+**Data Services Librarian** *(June 2021 - March 2024)* 
 
 * Provided research and data support to SMU community throughout the research lifecycle, primarily on data collection and analysis.
 Conducted multiple coding for research workshops in Python and R with consistently satisfactory feedback from participants (>86% participants would recommend the workshop to others)
@@ -64,8 +65,7 @@ Publications
 #  <ul>{% for post in site.publications reversed %}
 #    {% include archive-single-cv.html %}
 #  {% endfor %}</ul> 
--->
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -77,9 +77,11 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 Honors & Awards
 ======
+* Winner of LAS Passion Awards 2023
 * Winner of Library Association Singapore (LAS) Library School Scholarship 2017
 
 Professional Engagements
