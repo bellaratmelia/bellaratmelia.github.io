@@ -1,0 +1,37 @@
+---
+title: "Projects"
+subtitle: "Selected list of initiatives and projects that I have worked on"
+---
+
+### AI for Research Week 2024
+
+![](https://library.smu.edu.sg/sites/library.smu.edu.sg/files/banner-image/Banner_AI_Week24v02_04v.png){width="25%"}
+
+-  Led a team of 7 in organizing AI for Research Week 2024, defining event scope, managing logistics, and overseeing speaker recruitment.
+-  Co-facilitated two hands-on workshops:
+    -  [Try it Together: Transcribe Your Audio with Whisper API](https://ink.library.smu.edu.sg/ai_research_week/Programme/Programme/3/) – guiding participants through real-time transcription using the Whisper API.
+    -  [Try it together - AI-powered search tools: Elicit, SciSpace, Connected Papers, Researchrabbit, and Undermind.ai](https://ink.library.smu.edu.sg/ai_research_week/Programme/Programme/2/) – demonstrated advanced AI tools, including Elicit and Scispace, for improving research workflows and literature discovery.
+
+[Visit project website](https://library.smu.edu.sg/AI4ResearchWeek#programme){.btn .btn-outline-primary .btn role="button"}
+
+### SMU Researcher Club 
+
+![](https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/210297/images/smu-rc-web-banner.png){width="25%"}
+
+-  One of the four founding member of the SMU Researcher Club, focused on fostering a collaborative research community.
+-  Curate and organize events, workshops, and initiatives to engage researchers, facilitate knowledge sharing, and promote interdisciplinary collaboration within SMU.
+
+[Visit the club website](https://smu.sg/researcherclub){.btn .btn-outline-primary .btn role="button"}
+
+### Generate Your L(AI)brary Hackathon 2023
+
+![](https://library.smu.edu.sg/sites/library.smu.edu.sg/files/library/newsEvents/Hackathon2023/Banner_HackV04b_RG.png){width="25%"}
+
+-  Led a team of 8 in organizing the Generate Your L(AI)brary Hackathon 2023, overseeing the event’s scope, theme development, judge and mentor recruitment, and comprehensive planning.
+-  Conducted an introductory Python workshop to equip participants with foundational skills in preparation for the hackathon.
+
+[Visit project website](https://researchguides.smu.edu.sg/hackathon-2023){.btn .btn-outline-primary .btn role="button"}
+
+
+
+

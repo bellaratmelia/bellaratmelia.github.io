@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Bella Ratmelia"
+  page-footer: "This site is made with [Quarto](https://quarto.org/)"
+  google-analytics:
+    tracking-id: "G-SFFLV4TX3P"
+    anonymize-ip: true
+    storage: none
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - conferences.qmd
+      - teaching.qmd
+      - projects.qmd
+      - cv.qmd
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    toc: true
+    include-in-header:
+      file: header.html
+
+
+
