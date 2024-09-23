@@ -185,7 +185,7 @@ gtag('config', 'G-SFFLV4TX3P', { 'anonymize_ip': true});
 <li>Co-facilitated two hands-on workshops:
 <ul>
 <li><a href="https://ink.library.smu.edu.sg/ai_research_week/Programme/Programme/3/">Try it Together: Transcribe Your Audio with Whisper API</a> – guiding participants through real-time transcription using the Whisper API.</li>
-<li><a href="https://ink.library.smu.edu.sg/ai_research_week/Programme/Programme/2/">Try it together - AI-powered search tools: Elicit, SciSpace, Connected Papers, Researchrabbit, and Undermind.ai</a> – demonstrated advanced AI tools, including Elicit and Scispace, for improving research workflows and literature discovery.</li>
+<li><a href="https://ink.library.smu.edu.sg/ai_research_week/Programme/Programme/2/">Try it together - AI-powered search tools: Elicit, SciSpace, Connected Papers, Researchrabbit, and Undermind.ai</a> - with co-instructors <a href="http://musingsaboutlibrarianship.blogspot.com/">Aaron Tay</a> and Ooi Kooi Cheng. We demonstrated advanced AI tools for improving research workflows and literature discovery.</li>
 </ul></li>
 </ul>
 <p><a href="https://library.smu.edu.sg/AI4ResearchWeek#programme" class="btn btn-outline-primary" role="button">Visit project website</a></p>
@@ -304,7 +304,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/bellaratmelia\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
