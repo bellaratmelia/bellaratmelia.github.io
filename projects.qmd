@@ -3,55 +3,59 @@ title: "Projects"
 subtitle: "Selected initiatives, tools, and resources I have built or led"
 ---
 
+A selected list of projects, learning resources, and community initiatives that reflect my work in research data services, AI-enabled research workflows, open scholarship, and researcher engagement.
+
 ## Tools & Resources I've Built
 
 ### Open Science Knowledge Check
 
-A self-assessment quiz on open science and scholarly publishing, built with [Quarto](https://quarto.org/) and Observable JS. Lets researchers gauge and build their understanding of open-science concepts at their own pace.
+A self-assessment quiz on open science and scholarly publishing, built with [Quarto](https://quarto.org/) and Observable JS. It helps researchers gauge and build their understanding of open-science concepts at their own pace.
 
 [Try the quiz](https://bellaratmelia.github.io/os-knowledge-check/){.btn .btn-outline-primary role="button"} [Source on GitHub](https://github.com/bellaratmelia/os-knowledge-check){.btn .btn-outline-secondary role="button"}
 
 ### Introductory R for Social Sciences
 
-An open, self-paced course website for teaching R to social-science and humanities researchers, built in Quarto and taught to SMU researchers since 2023.
+An open, self-paced course website for teaching R to social-science and humanities researchers, built in Quarto and taught at SMU since 2023.
 
 [View the course](https://smu-libraries.github.io/r-socsci/){.btn .btn-outline-primary role="button"} [Source on GitHub](https://github.com/smu-libraries/r-socsci){.btn .btn-outline-secondary role="button"} [Earlier materials](https://bellaratmelia.github.io/introductory-r-socsci/){.btn .btn-outline-secondary role="button"}
 
-*More workshop and teaching materials are on my [GitHub](https://github.com/bellaratmelia).*
+*More workshop and teaching materials are available on my [GitHub](https://github.com/bellaratmelia).*
+
+:::{style="margin-top: 30px;"}
+:::
 
 ## Initiatives & Events I've Led
 
-### FORCE11 & FORCE2026 *(ongoing)*
+### FORCE11 (ongoing) & FORCE2026
 
--  Vice President of [FORCE11](https://force11.org/), an international community advancing open scholarship, research communication, and e-research.
--  Co-chair of the organizing committee for FORCE2026, the community's flagship conference.
+- Vice President of [FORCE11](https://force11.org/), an international community advancing open scholarship, research communication, and e-research.
+- Co-chaired the organising committee for FORCE2026, the community's flagship conference.
 
 ### AI for Research Week 2024
 
-![](https://library.smu.edu.sg/sites/library.smu.edu.sg/files/banner-image/Banner_AI_Week24v02_04v.png){fig-alt="Banner for SMU Libraries AI for Research Week 2024" width="25%"}
+https://library.smu.edu.sg/sites/library.smu.edu.sg/files/banner-image/Banner_AI_Week24v02_04v.png{fig-alt="Banner for SMU Libraries AI for Research Week 2024" width="35%"}
 
--  Led a team of 7 in organizing AI for Research Week 2024, defining event scope, managing logistics, and overseeing speaker recruitment.
--  Co-facilitated two hands-on workshops:
-    -  [Try it Together: Transcribe Your Audio with Whisper API](https://ink.library.smu.edu.sg/ai_research_week/Programme/Programme/3/) – guiding participants through real-time transcription using the Whisper API.
-    -  [Try it together - AI-powered search tools: Elicit, SciSpace, Connected Papers, Researchrabbit, and Undermind.ai](https://ink.library.smu.edu.sg/ai_research_week/Programme/Programme/2/) – demonstrated advanced AI tools, including Elicit and Scispace, for improving research workflows and literature discovery.
+- Led a team of seven in organising AI for Research Week 2024, defining the event scope, managing logistics, and coordinating speaker recruitment.
+- Co-facilitated two hands-on workshops:
+  - https://ink.library.smu.edu.sg/ai_research_week/Programme/Programme/3/ — guiding participants through real-time transcription using the Whisper API.
+  - https://ink.library.smu.edu.sg/ai_research_week/Programme/Programme/2/ — demonstrating tools such as Elicit, SciSpace, Connected Papers, ResearchRabbit, and Undermind.ai for literature discovery and research workflows, with Aaron Tay and Ooi Kooi Cheng.
 
 [Visit project website](https://library.smu.edu.sg/AI4ResearchWeek#programme){.btn .btn-outline-primary role="button"}
 
 ### Generate Your L(AI)brary Hackathon 2023
 
-![](https://library.smu.edu.sg/sites/library.smu.edu.sg/files/library/newsEvents/Hackathon2023/Banner_HackV04b_RG.png){fig-alt="Banner for SMU Libraries Generate Your L(AI)brary Hackathon 2023" width="25%"}
+https://library.smu.edu.sg/sites/library.smu.edu.sg/files/library/newsEvents/Hackathon2023/Banner_HackV04b_RG.png{fig-alt="Banner for SMU Libraries Generate Your L(AI)brary Hackathon 2023" width="35%"}
 
--  Led a team of 8 in organizing the Generate Your L(AI)brary Hackathon 2023, overseeing the event’s scope, theme development, judge and mentor recruitment, and comprehensive planning.
--  Conducted an introductory Python workshop to equip participants with foundational skills in preparation for the hackathon.
--  The winning prototype went on to become a research project to implement the concept within SMU Libraries.
+- Led a team of eight in organising Generate Your L(AI)brary Hackathon 2023, overseeing the event scope, theme development, judge and mentor recruitment, and overall planning.
+- Conducted an introductory Python workshop to equip participants with foundational skills in preparation for the hackathon.
 
 [Visit project website](https://researchguides.smu.edu.sg/hackathon-2023){.btn .btn-outline-primary role="button"}
 
 ### SMU Researcher Club *(ongoing)*
 
-![](https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/210297/images/smu-rc-web-banner.png){fig-alt="Banner for the SMU Researcher Club" width="25%"}
+https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/210297/images/smu-rc-web-banner.png{fig-alt="Banner for the SMU Researcher Club" width="35%"}
 
--  One of the four founding members of the SMU Researcher Club, focused on fostering a collaborative research community.
--  Curate and organize events, workshops, and initiatives to engage researchers, facilitate knowledge sharing, and promote interdisciplinary collaboration within SMU.
+- Founding member of the SMU Researcher Club, an initiative that fosters community, collaboration, and knowledge sharing among researchers at SMU.
+- Help curate events, workshops, and researcher-facing initiatives that support research staff, postgraduate researchers, and the wider SMU research community.
 
 [Visit the club website](https://smu.sg/researcherclub){.btn .btn-outline-primary role="button"}

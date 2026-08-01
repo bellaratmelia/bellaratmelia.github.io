@@ -8,66 +8,70 @@ format:
 
 ### Education
 
--  MSc in Information Studies, Nanyang Technological University, 2018
--  Bachelor of Information Technology, University of Wollongong, 2015
--  Diploma in Information Technology, Singapore Polytechnic, 2011
+- MSc in Information Studies, Nanyang Technological University, 2018
+- Bachelor of Information Technology, University of Wollongong, 2015
+- Diploma in Information Technology, Singapore Polytechnic, 2011
 
 ### Work experience
 
 #### **Singapore Management University**, Singapore  
 
-**Senior Librarian, Research & Data Services** *(April 2024 - Present)*   
-**Data Services Librarian** *(June 2021 - March 2024)* 
+**Senior Librarian, Research & Data Services** *(April 2024 - Present)*  
+**Data Services Librarian** *(June 2021 - March 2024)*
 
-- Provided research and data support to SMU community throughout the research lifecycle, primarily on data collection and analysis.
--  Conducted multiple coding for research workshops in Python and R with consistently satisfactory feedback from participants (>86% participants would recommend the workshop to others)
--  Led and coordinated SMU Libraries’ inaugural AI hackathon 2023 which resulted in a research project to implement the winning prototype.
--  Founding member of SMU Researcher Club, an initiative to engage researcher staff in SMU to foster collaboration and knowledge sharing among researchers. 
+- Provide research and data support to the SMU community across the research lifecycle, with a focus on data collection, analysis, reproducible workflows, and research communication.
+- Design and deliver coding-for-research workshops in Python and R, with consistently positive participant feedback (>86% of participants would recommend the workshops to others).
+- Develop and support research-facing initiatives on AI-enabled research workflows, including AI-powered search, literature discovery, transcription, and responsible use of emerging tools.
+- Led and coordinated SMU Libraries’ inaugural AI hackathon in 2023, which resulted in a research project to implement the winning prototype.
+- Founding member of the SMU Researcher Club, an initiative that engages research staff at SMU and fosters collaboration, knowledge sharing, and community-building among researchers.
 
-#### **Nanyang Technological University**, Singapore 
+#### **Nanyang Technological University**, Singapore  
 
-**Librarian** *(February 2019 - June 2021)*   
+**Librarian** *(February 2019 - June 2021)*  
 **Assistant Librarian** *(August 2015 - January 2019)*
 
--  Designed and developed more than 30  information and digital literacy classes for undergraduates and postgraduates. On average, the classes received a 95% satisfaction rating based on students feedback. 
--  Led a User Experience (UX) research project that evaluates the usability of the Library’s discovery platform and Subject Guides.
--  Developed and executed social media campaigns with the outreach team to promote the Library’s resources.  The campaigns generated a 98% increase of followers to NTU Library’s Instagram account in just one year.
--  Developed final year project (FYP) collection database for Wee Kim Wee School of Communication and Information (WKWSCI) with communication subject librarian. 
--  Helped expand the collaboration with NTU faculty to create and customize at least 100 course blogs and research websites to assist with the university’s teaching and research activities.
+- Designed and developed more than 30 information and digital literacy classes for undergraduates and postgraduates. On average, the classes received a 95% satisfaction rating based on student feedback.
+- Led a User Experience (UX) research project evaluating the usability of the Library’s discovery platform and Subject Guides.
+- Developed and executed social media campaigns with the outreach team to promote the Library’s resources. The campaigns generated a 98% increase in followers for NTU Library’s Instagram account in one year.
+- Developed a final year project (FYP) collection database for the Wee Kim Wee School of Communication and Information (WKWSCI), in collaboration with the communication subject librarian.
+- Helped expand collaboration with NTU faculty to create and customise at least 100 course blogs and research websites supporting the university’s teaching and research activities.
 
 **Library Executive** *(January 2013 - July 2015)*
 
--  Contributed to the migration project of blogs@NTU from in-house hosting to a cloud-hosted solution; Drafted the ITQ technical requirements, conducted vendor evaluation, developed and executed the plan for change communication.
--  Developed WordPress self-help guides and conducted at least 10 customized WordPress workshops in total to NTU faculty, staff and students. 
--  Provided technical customisations service and consultations to blogs@NTU projects.
+- Contributed to the migration of blogs@NTU from in-house hosting to a cloud-hosted solution; drafted ITQ technical requirements, conducted vendor evaluation, and developed and executed the change communication plan.
+- Developed WordPress self-help guides and conducted at least 10 customised WordPress workshops for NTU faculty, staff, and students.
+- Provided technical customisation services and consultations for blogs@NTU projects.
 
-#### **Tyler Projects Pte Ltd**, Singapore 
+#### **Tyler Projects Pte Ltd**, Singapore  
 
-**Game Developer** *(September 2011 to December 2012)* 
+**Game Developer** *(September 2011 - December 2012)*
 
--  Part of a small and agile team of three developers for the Facebook game “Social Life”.
--  Developed the integration with players’ Facebook account using Facebook API
--  Developed parts of the gameplay mechanics using ActionScript3, PHP, and JavaScript.
--  Developed the frontend user interface using HTML, CSS and JavaScript.
--  Designed and developed the tutorial section of the game to entice and teach new players.
+- Worked as part of a small agile team of three developers on the Facebook game *Social Life*.
+- Developed integration with players’ Facebook accounts using the Facebook API.
+- Developed parts of the gameplay mechanics using ActionScript 3, PHP, and JavaScript.
+- Developed frontend user interface components using HTML, CSS, and JavaScript.
+- Designed and developed the tutorial section of the game to introduce and guide new players.
 
 ### Skills
 
--  Technical skills: PHP, JavaScript, HTML/CSS, SQL, Python, R.
--  Tools: GitHub, WordPress, LibGuides.
--  Liaison and instructions.
--  Research methods in social sciences.
--  Research data lifecycle and management. 
-  
-### Honors & Awards
+- **Programming and technical skills:** Python, R, SQL, PHP, JavaScript, HTML/CSS.
+- **Research and data services:** research data lifecycle support, data collection and analysis, reproducible research workflows, and research methods in the social sciences.
+- **AI-enabled research workflows:** AI-powered search, literature discovery, transcription workflows, and practical evaluation of emerging research tools.
+- **Teaching and facilitation:** workshop design, coding-for-research instruction, lesson planning, and hands-on technical training.
+- **Tools and platforms:** GitHub, Quarto, WordPress, LibGuides.
+- **Academic library practice:** liaison librarianship, library instruction, scholarly communication, researcher engagement, and open scholarship.
 
--  Winner of LAS Passion Awards 2023
--  Winner of Library Association Singapore (LAS) Library School Scholarship 2017
+### Honours & Awards
+
+- Winner of LAS Passion Awards 2023
+- Winner of Library Association Singapore (LAS) Library School Scholarship 2017
 
 ### Professional Engagements
 
--  Vice President, FORCE11 (Jan 2026 - Dec 2027) 
--  Co-chair, FORCE2026 Conference Organising Committee (2026)
--  Council Member of Library Association Singapore (LAS), Chair of the IT Committee (June 2019 - May 2023)
-
-
+- Vice President, FORCE11 (2026–2027)
+- Co-chair, FORCE2026 Conference Organising Committee (2026)
+- Council Member and IT Committee Chair, Library Association Singapore (2019–2023)
+- Organiser, LAS-PPM Conference 2021
+- Organiser, Library Association Singapore Conference 2019
+- Organiser, WordCamp Singapore 2019
+- Organiser, WordCamp Singapore 2016

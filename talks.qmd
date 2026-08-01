@@ -1,30 +1,21 @@
 ---
 title: "Talks & Publications"
-subtitle: "Selected talks, papers, panels, and professional service"
+subtitle: "Selected presentations, writing, panels, and moderation"
 ---
 
+Selected examples of my public talks, writing, and moderation in research data services, open scholarship, scholarly communication, and library technology.
 
 ## Presentations
 
--  **IATUL 2025** (Shanghai, China) — *Whisper AI Transcription Service for IRB-Compliant Research*.
--  **13th International CALIBER 2022** (BHU, Varanasi, India) — Theme Speaker, *[The Emerging Area of Data Services: A Case of SMU Libraries](https://ink.library.smu.edu.sg/library_research/204/)*.
+- **IATUL 2025** (Shanghai, China) — *Whisper AI Transcription Service for IRB-Compliant Research*.
+- **13th International CALIBER 2022** (BHU, Varanasi, India) — Theme Speaker, *https://ink.library.smu.edu.sg/library_research/204/*.
 
 ## Papers & Articles
 
--  **2026** — *Does Agentic Deep Search Converge? Reproducibility Questions for LLM-Driven Literature Discovery*, with Aaron Tay and Dong Danping.
--  **2025** — *Why University Libraries Should Not Overlook Research Staff*, Times Higher Education (Campus).
--  *Rebranding NTU Library: A Transmedia Approach*, with Samantha Seah and T. Mohan.
+- **2026** — [*Does Agentic Deep Search Converge? Reproducibility Questions for LLM-Driven Literature Discovery*](https://ink.library.smu.edu.sg/force2026/Programme/agenda/20/), with Aaron Tay and Dong Danping. 
+- **2025** — [*Why University Libraries Should Not Overlook Research Staff*](https://ink.library.smu.edu.sg/library_research/230/), Times Higher Education (Campus).
+- **2019** — *Rebranding NTU Library: A Transmedia Approach*, with Samantha Seah and T. Mohan.
 
 ## Panels & Moderation
 
--  **SAUL Copyright Seminar 2022** (SMU) — Moderator, *[Panel Discussion on Text and Data Mining](https://ink.library.smu.edu.sg/saulcopyright2022/Program/Recordings_slides/3/)*, exploring the implications of Singapore's text-and-data-mining copyright exception for academics and librarians.
-
-## Service & Organising Committees
-
--  Vice President, FORCE11
--  Co-chair, FORCE2026
--  Council Member & IT Committee Chair, Library Association Singapore (LAS)
--  Organizer, LAS-PPM Conference 2021
--  Organizer, Library Association Singapore (LAS) Conference 2019
--  [WordCamp Singapore 2019](https://singapore.wordcamp.org/2019/)
--  [WordCamp Singapore 2016](https://singapore.wordcamp.org/2016/)
+- **SAUL Copyright Seminar 2022** (SMU) — Moderator, *https://ink.library.smu.edu.sg/saulcopyright2022/Program/Recordings_slides/3/*, exploring the implications of Singapore's text-and-data-mining copyright exception for academics and librarians.
