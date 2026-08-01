@@ -1,0 +1,29 @@
+---
+title: "Workshops"
+subtitle: "Selected workshops, courses, and hands-on training I've delivered"
+---
+
+## R & data analysis
+
+- **Introductory R for Social Sciences** — a recurring, multi-session introductory R course I've taught to SMU researchers since 2023. Current [course site](https://smu-libraries.github.io/r-socsci/); [earlier materials](https://bellaratmelia.github.io/introductory-r-socsci/) remain available.
+- [Data Carpentry (Social Sciences with R) for SMU](https://bellaratmelia.github.io/2023-11-29-smulib-dc/) (Nov 2023) — for PhD students and research staff.
+- [Data Carpentry (Social Sciences with R) for Carnegie Mellon University](https://rsangole.github.io/2023-11-15-cmu-online/) (Nov 2023) — as a volunteer Carpentries instructor.
+
+## Python
+
+- [Python for Macroeconomics](https://github.com/bellaratmelia/2024-python-macroecons) (Oct 2024).
+- Software Carpentry (Python) for TU Delft / University of Twente — volunteer instructor, [May 2023](https://4turesearchdata-carpentries.github.io/2023-05-30-Twente/) and [Nov 2023](https://4turesearchdata-carpentries.github.io/2023-11-06-twente-online/).
+
+## AI in research workflows
+
+- **FORCE11 FSCI 2025** (Online) — *[AI-Powered Search in Libraries: A Crash Course on the Fundamentals for Library Professionals](https://force11.org/fsci/post/fsci-2025-courses-abstracts/#L15)*, with lead instructor Aaron Tay.
+- **Singapore Rising Scholars Conference 2024** (SMU) — *[Streamlined Workflow for Qualitative Data Analysis with Whisper and ATLAS.ti](https://ink.library.smu.edu.sg/library_research/219/)*, with Bryan Leow and Dong Danping.
+- **AI for Research Week 2024** (SMU, May 2024):
+    - [Try it Together: Transcribe Your Audio with Whisper API](https://ink.library.smu.edu.sg/ai_research_week/Programme/Programme/3/)
+    - [Try it Together — AI-powered search tools: Elicit, SciSpace, Connected Papers, ResearchRabbit, and Undermind.ai](https://ink.library.smu.edu.sg/ai_research_week/Programme/Programme/2/), with Aaron Tay and Ooi Kooi Cheng.
+
+## Reproducible research & tools
+
+- **FORCE11 FSCI 2024** (UCLA, CA, USA) — 3-day in-person course, *[Making Research More Transparent with Quarto and RStudio](https://force11.org/fsci/post/course-list-with-abstracts-2024/#C03)*, with co-instructor Dong Danping.
+- [Introduction to Git & GitHub](https://github.com/bellaratmelia/git-workshop-files) — hands-on workshop (2025).
+- [Library Carpentry for SMU Librarians](https://bellaratmelia.github.io/2022-06-29-smulibcarpentry/) (Jun 2022).

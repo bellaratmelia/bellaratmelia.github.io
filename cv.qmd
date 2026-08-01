@@ -1,5 +1,9 @@
 ---
 title: "CV"
+description: "Curriculum vitae of Bella Ratmelia, Senior Librarian in Research & Data Services at SMU Libraries."
+format:
+  html: default
+  typst: default
 ---
 
 ### Education
@@ -62,6 +66,8 @@ title: "CV"
 
 ### Professional Engagements
 
+-  Vice President, FORCE11 (Jan 2026 - Dec 2027) 
+-  Co-chair, FORCE2026 Conference Organising Committee (2026)
 -  Council Member of Library Association Singapore (LAS), Chair of the IT Committee (June 2019 - May 2023)
 
 

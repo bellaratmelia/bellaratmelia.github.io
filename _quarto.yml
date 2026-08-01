@@ -3,6 +3,12 @@ project:
 
 website:
   title: "Bella Ratmelia"
+  site-url: https://bellaratmelia.github.io
+  description: "Senior Librarian in Research & Data Services at SMU Libraries — reproducible research, AI in research workflows, and data-skills training in R and Python."
+  image: images/bella-profile.jpg
+  favicon: images/bella-profile.jpg
+  open-graph: true
+  twitter-card: true
   page-footer: "This site is made with [Quarto](https://quarto.org/)"
   google-analytics:
     tracking-id: "G-SFFLV4TX3P"
@@ -12,13 +18,19 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - conferences.qmd
-      - teaching.qmd
+      - href: talks.qmd
+        text: "Talks & Publications"
+      - workshops.qmd
       - projects.qmd
       - cv.qmd
 
 format:
   html:
+    grid:
+      body-width: 960px
+      sidebar-width: 250px
+      margin-width: 300px
+      gutter-width: 1.5rem
     theme: 
       - cosmo
       - custom.scss

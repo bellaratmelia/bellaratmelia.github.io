@@ -2,10 +2,20 @@
 title: Bella Ratmelia
 image: images/bella-profile.jpg
 toc: false
+description: "I help researchers learn data tools, use AI thoughtfully, and make research workflows more reproducible."
 about:
   template: trestles
   image-shape: round
   links:
+    - icon: envelope
+      text: Email
+      href: mailto:bellar@smu.edu.sg
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=Xwrf7c0AAAAJ&hl=en
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0003-4913-9508 
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/bellaratmelia/
@@ -16,7 +26,12 @@ about:
 
 # Hello!
 
-I am currently a Senior Librarian with the Research and Data Services team in [SMU Libraries](https://library.smu.edu.sg/), where I support and enable computational methods of data analysis in academic research to meet the teaching, research, and learning needs of SMU community. I graduated from Nanyang Technological University in 2018 with a MSc in Information Studies.
+I am Bella, a Senior Librarian in the Research and Data Services team at [SMU Libraries](https://library.smu.edu.sg/). I help researchers adopt computational, reproducible, and responsible approaches to research, especially across data collection, analysis, publication, and research communication.
 
-When not reading detective fiction or tinkering on stuff in Python or R, I occasionally do some volunteer teaching for the folks at [The Carpentries](https://carpentries.org/index.html).
+A lot of my work starts with a simple question: how can researchers use new tools well, without losing sight of rigour, openness, and care? I design and teach hands-on workshops in **R, Python, Git, and reproducible research tools**; evaluate how AI and LLM-based tools can support research workflows; and build programmes that connect researchers, research staff, and academic library communities.
 
+I currently serve as **Vice President of [FORCE11](https://force11.org/)**, and recently co-chaired the organising committee for [**FORCE2026**](https://force11.org/force2026/). I graduated from Nanyang Technological University in 2018 with an MSc in Information Studies.
+
+Outside work, I volunteer as an instructor with [The Carpentries](https://carpentries.org/) and I’m rarely far from a detective novel.
+
+**Open to collaborating on:** research-data training, workshops and guest teaching, conference sessions, and projects on AI-in-research or open scholarship. The fastest way to reach me is by [email](mailto:bellar@smu.edu.sg).
