@@ -1,94 +1,52 @@
 [
   {
-    "objectID": "workshops.html",
-    "href": "workshops.html",
-    "title": "Workshops",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "Introductory R for Social Sciences — a recurring, multi-session introductory R course I’ve taught to SMU researchers since 2023. Current course site; earlier materials remain available.\nData Carpentry (Social Sciences with R) for SMU (Nov 2023) — for PhD students and research staff.\nData Carpentry (Social Sciences with R) for Carnegie Mellon University (Nov 2023) — as a volunteer Carpentries instructor."
-  },
-  {
-    "objectID": "workshops.html#r-data-analysis",
-    "href": "workshops.html#r-data-analysis",
-    "title": "Workshops",
-    "section": "",
-    "text": "Introductory R for Social Sciences — a recurring, multi-session introductory R course I’ve taught to SMU researchers since 2023. Current course site; earlier materials remain available.\nData Carpentry (Social Sciences with R) for SMU (Nov 2023) — for PhD students and research staff.\nData Carpentry (Social Sciences with R) for Carnegie Mellon University (Nov 2023) — as a volunteer Carpentries instructor."
-  },
-  {
-    "objectID": "workshops.html#python",
-    "href": "workshops.html#python",
-    "title": "Workshops",
-    "section": "Python",
-    "text": "Python\n\nPython for Macroeconomics (Oct 2024).\nSoftware Carpentry (Python) for TU Delft / University of Twente — volunteer instructor, May 2023 and Nov 2023."
-  },
-  {
-    "objectID": "workshops.html#ai-in-research-workflows",
-    "href": "workshops.html#ai-in-research-workflows",
-    "title": "Workshops",
-    "section": "AI in research workflows",
-    "text": "AI in research workflows\n\nFORCE11 FSCI 2025 (Online) — AI-Powered Search in Libraries: A Crash Course on the Fundamentals for Library Professionals, with lead instructor Aaron Tay.\nSingapore Rising Scholars Conference 2024 (SMU) — Streamlined Workflow for Qualitative Data Analysis with Whisper and ATLAS.ti, with Bryan Leow and Dong Danping.\nAI for Research Week 2024 (SMU, May 2024):\n\nTry it Together: Transcribe Your Audio with Whisper API\nTry it Together — AI-powered search tools: Elicit, SciSpace, Connected Papers, ResearchRabbit, and Undermind.ai, with Aaron Tay and Ooi Kooi Cheng."
-  },
-  {
-    "objectID": "workshops.html#reproducible-research-tools",
-    "href": "workshops.html#reproducible-research-tools",
-    "title": "Workshops",
-    "section": "Reproducible research & tools",
-    "text": "Reproducible research & tools\n\nFORCE11 FSCI 2024 (UCLA, CA, USA) — 3-day in-person course, Making Research More Transparent with Quarto and RStudio, with co-instructor Dong Danping.\nIntroduction to Git & GitHub — hands-on workshop (2025).\nLibrary Carpentry for SMU Librarians (Jun 2022)."
+    "text": "Education\n\nMSc in Information Studies, Nanyang Technological University, 2018\nBachelor of Information Technology, University of Wollongong, 2015\nDiploma in Information Technology, Singapore Polytechnic, 2011\n\n\n\nWork experience\n\nSingapore Management University, Singapore\nSenior Librarian, Research & Data Services (April 2024 - Present)\nData Services Librarian (June 2021 - March 2024)\n\nProvide research and data support to the SMU community across the research lifecycle, with a focus on data collection, analysis, reproducible workflows, and research communication.\nDesign and deliver coding-for-research workshops in Python and R, with consistently positive participant feedback (&gt;86% of participants would recommend the workshops to others).\nDevelop and support research-facing initiatives on AI-enabled research workflows, including AI-powered search, literature discovery, transcription, and responsible use of emerging tools.\nLed and coordinated SMU Libraries’ inaugural AI hackathon in 2023, which resulted in a research project to implement the winning prototype.\nFounding member of the SMU Researcher Club, an initiative that engages research staff at SMU and fosters collaboration, knowledge sharing, and community-building among researchers.\n\n\n\nNanyang Technological University, Singapore\nLibrarian (February 2019 - June 2021)\nAssistant Librarian (August 2015 - January 2019)\n\nDesigned and developed more than 30 information and digital literacy classes for undergraduates and postgraduates. On average, the classes received a 95% satisfaction rating based on student feedback.\nLed a User Experience (UX) research project evaluating the usability of the Library’s discovery platform and Subject Guides.\nDeveloped and executed social media campaigns with the outreach team to promote the Library’s resources. The campaigns generated a 98% increase in followers for NTU Library’s Instagram account in one year.\nDeveloped a final year project (FYP) collection database for the Wee Kim Wee School of Communication and Information (WKWSCI), in collaboration with the communication subject librarian.\nHelped expand collaboration with NTU faculty to create and customise at least 100 course blogs and research websites supporting the university’s teaching and research activities.\n\nLibrary Executive (January 2013 - July 2015)\n\nContributed to the migration of blogs@NTU from in-house hosting to a cloud-hosted solution; drafted ITQ technical requirements, conducted vendor evaluation, and developed and executed the change communication plan.\nDeveloped WordPress self-help guides and conducted at least 10 customised WordPress workshops for NTU faculty, staff, and students.\nProvided technical customisation services and consultations for blogs@NTU projects.\n\n\n\nTyler Projects Pte Ltd, Singapore\nGame Developer (September 2011 - December 2012)\n\nWorked as part of a small agile team of three developers on the Facebook game Social Life.\nDeveloped integration with players’ Facebook accounts using the Facebook API.\nDeveloped parts of the gameplay mechanics using ActionScript 3, PHP, and JavaScript.\nDeveloped frontend user interface components using HTML, CSS, and JavaScript.\nDesigned and developed the tutorial section of the game to introduce and guide new players.\n\n\n\n\nSkills\n\nProgramming and technical skills: Python, R, SQL, PHP, JavaScript, HTML/CSS.\nResearch and data services: research data lifecycle support, data collection and analysis, reproducible research workflows, and research methods in the social sciences.\nAI-enabled research workflows: AI-powered search, literature discovery, transcription workflows, and practical evaluation of emerging research tools.\nTeaching and facilitation: workshop design, coding-for-research instruction, lesson planning, and hands-on technical training.\nTools and platforms: GitHub, Quarto, WordPress, LibGuides.\nAcademic library practice: liaison librarianship, library instruction, scholarly communication, researcher engagement, and open scholarship.\n\n\n\nPublications & Talks\nSee the Talks & Publications page for selected presentations, papers, and articles.\n\n\nHonours & Awards\n\nWinner of LAS Passion Awards 2023\nWinner of Library Association Singapore (LAS) Library School Scholarship 2017\n\n\n\nProfessional Engagements\n\nVice President, FORCE11 (2026–2027)\nCo-chair, FORCE2026 Conference Organising Committee (2026)\nCouncil Member and IT Committee Chair, Library Association Singapore (2019–2023)\nOrganiser, LAS-PPM Conference 2021\nOrganiser, Library Association Singapore Conference 2019\nOrganiser, WordCamp Singapore 2019\nOrganiser, WordCamp Singapore 2016"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "A self-assessment quiz on open science and scholarly publishing, built with Quarto and Observable JS. Lets researchers gauge and build their understanding of open-science concepts at their own pace.\nTry the quiz Source on GitHub\n\n\n\nAn open, self-paced course website for teaching R to social-science and humanities researchers, built in Quarto and taught to SMU researchers since 2023.\nView the course Source on GitHub Earlier materials\nMore workshop and teaching materials are on my GitHub."
+    "text": "A selected list of projects, learning resources, and community initiatives that reflect my work in research data services, AI-enabled research workflows, open scholarship, and researcher engagement."
   },
   {
     "objectID": "projects.html#tools-resources-ive-built",
     "href": "projects.html#tools-resources-ive-built",
     "title": "Projects",
-    "section": "",
-    "text": "A self-assessment quiz on open science and scholarly publishing, built with Quarto and Observable JS. Lets researchers gauge and build their understanding of open-science concepts at their own pace.\nTry the quiz Source on GitHub\n\n\n\nAn open, self-paced course website for teaching R to social-science and humanities researchers, built in Quarto and taught to SMU researchers since 2023.\nView the course Source on GitHub Earlier materials\nMore workshop and teaching materials are on my GitHub."
+    "section": "Tools & Resources I’ve Built",
+    "text": "Tools & Resources I’ve Built\n\nOpen Science Knowledge Check\nA self-assessment quiz on open science and scholarly publishing, built with Quarto and Observable JS. It helps librarians, researchers, and scholarly-communication enthusiasts gauge and build their understanding of open-science concepts at their own pace.\nTry the quiz Source on GitHub\n\n\nIntroductory R for Social Sciences\nAn open, self-paced course website for teaching R to social science students, built in collaboration with School of Social Sciences and taught at SMU since August 2023.\nView the course Source on GitHub Earlier materials\nMore workshop and teaching materials are available on my GitHub."
   },
   {
     "objectID": "projects.html#initiatives-events-ive-led",
     "href": "projects.html#initiatives-events-ive-led",
     "title": "Projects",
     "section": "Initiatives & Events I’ve Led",
-    "text": "Initiatives & Events I’ve Led\n\nFORCE11 & FORCE2026 (ongoing)\n\nVice President of FORCE11, an international community advancing open scholarship, research communication, and e-research.\nCo-chair of the organizing committee for FORCE2026, the community’s flagship conference.\n\n\n\nAI for Research Week 2024\n\n\nLed a team of 7 in organizing AI for Research Week 2024, defining event scope, managing logistics, and overseeing speaker recruitment.\nCo-facilitated two hands-on workshops:\n\nTry it Together: Transcribe Your Audio with Whisper API – guiding participants through real-time transcription using the Whisper API.\nTry it together - AI-powered search tools: Elicit, SciSpace, Connected Papers, Researchrabbit, and Undermind.ai – demonstrated advanced AI tools, including Elicit and Scispace, for improving research workflows and literature discovery.\n\n\nVisit project website\n\n\nGenerate Your L(AI)brary Hackathon 2023\n\n\nLed a team of 8 in organizing the Generate Your L(AI)brary Hackathon 2023, overseeing the event’s scope, theme development, judge and mentor recruitment, and comprehensive planning.\nConducted an introductory Python workshop to equip participants with foundational skills in preparation for the hackathon.\nThe winning prototype went on to become a research project to implement the concept within SMU Libraries.\n\nVisit project website\n\n\nSMU Researcher Club (ongoing)\n\n\nOne of the four founding members of the SMU Researcher Club, focused on fostering a collaborative research community.\nCurate and organize events, workshops, and initiatives to engage researchers, facilitate knowledge sharing, and promote interdisciplinary collaboration within SMU.\n\nVisit the club website"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Education\n\nMSc in Information Studies, Nanyang Technological University, 2018\nBachelor of Information Technology, University of Wollongong, 2015\nDiploma in Information Technology, Singapore Polytechnic, 2011\n\n\n\nWork experience\n\nSingapore Management University, Singapore\nSenior Librarian, Research & Data Services (April 2024 - Present)\nData Services Librarian (June 2021 - March 2024)\n\nProvided research and data support to SMU community throughout the research lifecycle, primarily on data collection and analysis.\nConducted multiple coding for research workshops in Python and R with consistently satisfactory feedback from participants (&gt;86% participants would recommend the workshop to others)\nLed and coordinated SMU Libraries’ inaugural AI hackathon 2023 which resulted in a research project to implement the winning prototype.\nFounding member of SMU Researcher Club, an initiative to engage researcher staff in SMU to foster collaboration and knowledge sharing among researchers.\n\n\n\nNanyang Technological University, Singapore\nLibrarian (February 2019 - June 2021)\nAssistant Librarian (August 2015 - January 2019)\n\nDesigned and developed more than 30 information and digital literacy classes for undergraduates and postgraduates. On average, the classes received a 95% satisfaction rating based on students feedback.\nLed a User Experience (UX) research project that evaluates the usability of the Library’s discovery platform and Subject Guides.\nDeveloped and executed social media campaigns with the outreach team to promote the Library’s resources. The campaigns generated a 98% increase of followers to NTU Library’s Instagram account in just one year.\nDeveloped final year project (FYP) collection database for Wee Kim Wee School of Communication and Information (WKWSCI) with communication subject librarian.\nHelped expand the collaboration with NTU faculty to create and customize at least 100 course blogs and research websites to assist with the university’s teaching and research activities.\n\nLibrary Executive (January 2013 - July 2015)\n\nContributed to the migration project of blogs@NTU from in-house hosting to a cloud-hosted solution; Drafted the ITQ technical requirements, conducted vendor evaluation, developed and executed the plan for change communication.\nDeveloped WordPress self-help guides and conducted at least 10 customized WordPress workshops in total to NTU faculty, staff and students.\nProvided technical customisations service and consultations to blogs@NTU projects.\n\n\n\nTyler Projects Pte Ltd, Singapore\nGame Developer (September 2011 to December 2012)\n\nPart of a small and agile team of three developers for the Facebook game “Social Life”.\nDeveloped the integration with players’ Facebook account using Facebook API\nDeveloped parts of the gameplay mechanics using ActionScript3, PHP, and JavaScript.\nDeveloped the frontend user interface using HTML, CSS and JavaScript.\nDesigned and developed the tutorial section of the game to entice and teach new players.\n\n\n\n\nSkills\n\nTechnical skills: PHP, JavaScript, HTML/CSS, SQL, Python, R.\nTools: GitHub, WordPress, LibGuides.\nLiaison and instructions.\nResearch methods in social sciences.\nResearch data lifecycle and management.\n\n\n\nHonors & Awards\n\nWinner of LAS Passion Awards 2023\nWinner of Library Association Singapore (LAS) Library School Scholarship 2017\n\n\n\nProfessional Engagements\n\nVice President, FORCE11 (Jan 2026 - Dec 2027)\nCo-chair, FORCE2026 Conference Organising Committee (2026)\nCouncil Member of Library Association Singapore (LAS), Chair of the IT Committee (June 2019 - May 2023)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Bella Ratmelia",
-    "section": "",
-    "text": "Hello!\nI am Bella, a Senior Librarian in the Research and Data Services team at SMU Libraries. I help researchers adopt computational, reproducible, and responsible approaches to research, especially across data collection, analysis, publication, and research communication.\nA lot of my work starts with a simple question: how can researchers use new tools well, without losing sight of rigour, openness, and care? I design and teach hands-on workshops in R, Python, Git, and reproducible research tools; evaluate how AI and LLM-based tools can support research workflows; and build programmes that connect researchers, research staff, and academic library communities.\nI currently serve as Vice President of FORCE11, and recently co-chaired the organising committee for FORCE2026. I graduated from Nanyang Technological University in 2018 with an MSc in Information Studies.\nOutside work, I volunteer as an instructor with The Carpentries and I’m rarely far from a detective novel.\nOpen to collaborating on: research-data training, workshops and guest teaching, conference sessions, and projects on AI-in-research or open scholarship. The fastest way to reach me is by email."
+    "text": "Initiatives & Events I’ve Led\n\nFORCE2026\n\n\nCo-chaired FORCE2026, FORCE11’s flagship conference; led a distributed organising committee spanning multiple continents, with oversight of program design and conference budget.\n\nVisit conference website\n\n\nAI for Research Week 2024\n\n\nLed a team of seven in organising AI for Research Week 2024, defining the event scope, managing logistics, and coordinating speaker recruitment.\nCo-facilitated two hands-on workshops:\n\nTry it together: Transcribing your audio with Whisper API — guiding participants through real-time transcription using the Whisper API.\nTry it together - AI-powered search tools: Elicit, SciSpace, Connected Papers, ResearchRabbit, and Undermind.ai — demonstrating AI tools for literature discovery and research workflows, with Aaron Tay and Ooi Kooi Cheng.\n\n\nVisit project website\n\n\nGenerate Your L(AI)brary Hackathon 2023\n\n\nLed a team of eight in organising Generate Your L(AI)brary Hackathon 2023, overseeing the event scope, theme development, judge and mentor recruitment, and overall planning.\nConducted an introductory Python workshop to equip participants with foundational skills in preparation for the hackathon.\n\nVisit project website\n\n\nSMU Researcher Club (ongoing)\n\n\nFounding member of the SMU Researcher Club, an initiative that fosters community, collaboration, and knowledge sharing among researchers at SMU.\nHelp curate events, workshops, and researcher-facing initiatives that support research staff, postgraduate researchers, and the wider SMU research community.\n\nVisit the club website"
   },
   {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Talks & Publications",
     "section": "",
-    "text": "IATUL 2025 (Shanghai, China) — Whisper AI Transcription Service for IRB-Compliant Research.\n13th International CALIBER 2022 (BHU, Varanasi, India) — Theme Speaker, The Emerging Area of Data Services: A Case of SMU Libraries."
+    "text": "Selected examples of my public talks, writing, and moderation in research data services, open scholarship, scholarly communication, and library technology."
   },
   {
     "objectID": "talks.html#presentations",
     "href": "talks.html#presentations",
     "title": "Talks & Publications",
-    "section": "",
-    "text": "IATUL 2025 (Shanghai, China) — Whisper AI Transcription Service for IRB-Compliant Research.\n13th International CALIBER 2022 (BHU, Varanasi, India) — Theme Speaker, The Emerging Area of Data Services: A Case of SMU Libraries."
+    "section": "Presentations",
+    "text": "Presentations\n\nIATUL 2025 (Shanghai, China) — Supporting Ethical Research: Implementing Local AI Transcription Services for IRB Compliance\nSingapore Rising Scholars Conference 2024 (SMU) — Streamlined workflow for qualitative data analysis with Whisper and ATLAS.ti, with Bryan Leow and Dong Danping.\n13th International CALIBER 2022 (BHU, Varanasi, India) — Theme Speaker, The emerging area of data services: A case of SMU Libraries."
   },
   {
     "objectID": "talks.html#papers-articles",
     "href": "talks.html#papers-articles",
     "title": "Talks & Publications",
     "section": "Papers & Articles",
-    "text": "Papers & Articles\n\n2026 — Does Agentic Deep Search Converge? Reproducibility Questions for LLM-Driven Literature Discovery, with Aaron Tay and Dong Danping.\n2025 — Why University Libraries Should Not Overlook Research Staff, Times Higher Education (Campus).\nRebranding NTU Library: A Transmedia Approach, with Samantha Seah and T. Mohan."
+    "text": "Papers & Articles\n\n2026 — Does Agentic Deep Search Converge? Reproducibility Questions for LLM-Driven Literature Discovery, with Aaron Tay and Dong Danping.\n2025 — Why University Libraries Should Not Overlook Research Staff, Times Higher Education (Campus).\n2019 — Rebranding NTU Library: A Transmedia Approach, with Samantha Seah and T. Mohan."
   },
   {
     "objectID": "talks.html#panels-moderation",
@@ -98,10 +56,52 @@
     "text": "Panels & Moderation\n\nSAUL Copyright Seminar 2022 (SMU) — Moderator, Panel Discussion on Text and Data Mining, exploring the implications of Singapore’s text-and-data-mining copyright exception for academics and librarians."
   },
   {
-    "objectID": "talks.html#service-organising-committees",
-    "href": "talks.html#service-organising-committees",
-    "title": "Talks & Publications",
-    "section": "Service & Organising Committees",
-    "text": "Service & Organising Committees\n\nVice President, FORCE11\nCo-chair, FORCE2026\nCouncil Member & IT Committee Chair, Library Association Singapore (LAS)\nOrganizer, LAS-PPM Conference 2021\nOrganizer, Library Association Singapore (LAS) Conference 2019\nWordCamp Singapore 2019\nWordCamp Singapore 2016"
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "These are selected workshops and courses I have designed, taught, or co-taught for researchers, students, librarians, and research support professionals."
+  },
+  {
+    "objectID": "workshops.html#r-data-analysis",
+    "href": "workshops.html#r-data-analysis",
+    "title": "Workshops",
+    "section": "R & data analysis",
+    "text": "R & data analysis\n\nIntroductory R for Social Sciences — a recurring, multi-session introductory R course for SMU students, taught since 2023. Current course site; earlier materials remain available.\nData Carpentry (Social Sciences with R) for SMU (Nov 2023) — a two-day workshop for PhD students and research staff.\nData Carpentry (Social Sciences with R) for Carnegie Mellon University (Nov 2023) — volunteer instructor with The Carpentries."
+  },
+  {
+    "objectID": "workshops.html#python",
+    "href": "workshops.html#python",
+    "title": "Workshops",
+    "section": "Python",
+    "text": "Python\n\nPython for Macroeconomics (Oct 2024) — a hands-on workshop introducing Python for macroeconomic data analysis.\nSoftware Carpentry (Python) for TU Delft / University of Twente — volunteer instructor with The Carpentries, May 2023 and Nov 2023."
+  },
+  {
+    "objectID": "workshops.html#bite-sized-skill-myself-up-workshops",
+    "href": "workshops.html#bite-sized-skill-myself-up-workshops",
+    "title": "Workshops",
+    "section": "Bite-sized / Skill Myself Up workshops",
+    "text": "Bite-sized / Skill Myself Up workshops\nI regularly design and teach 90-minute hands-on workshops as part of SMU Libraries’ bite-sized / Skill Myself Up series every semester. These sessions introduce practical tools and methods that researchers, students, and staff can apply immediately in their own work. Open only to SMU community.\nSelected topics include:\n\nPython 101: The Basics\nPython 101: Tinkering with Pandas DataFrame\nPython 101: Visualising Your Data in Python\nPython 101: Polars Exploration\nPython 101: Tinkering with LLMs via API: Claude, OpenAI, and more\nSurvey Design and Implementation with Qualtrics"
+  },
+  {
+    "objectID": "workshops.html#ai-in-research-workflows",
+    "href": "workshops.html#ai-in-research-workflows",
+    "title": "Workshops",
+    "section": "AI in research workflows",
+    "text": "AI in research workflows\n\nFORCE11 FSCI 2025 (Online) — AI-Powered Search in Libraries: A Crash Course on the Fundamentals for Library Professionals, with lead instructor Aaron Tay.\nAI for Research Week 2024 (SMU, May 2024):\n\nTry it together: Transcribing your audio with Whisper API\nTry it together - AI-powered search tools: Elicit, SciSpace, Connected Papers, ResearchRabbit, and Undermind.ai, with Aaron Tay and Ooi Kooi Cheng."
+  },
+  {
+    "objectID": "workshops.html#reproducible-research-tools",
+    "href": "workshops.html#reproducible-research-tools",
+    "title": "Workshops",
+    "section": "Reproducible research & tools",
+    "text": "Reproducible research & tools\n\nFORCE11 FSCI 2024 (UCLA, CA, USA) — 3-day in-person course, Making Research More Transparent with Quarto and RStudio, with co-instructor Dong Danping.\nIntroduction to Git & GitHub — hands-on workshop (2025).\nLibrary Carpentry for SMU Librarians (Jun 2022)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bella Ratmelia",
+    "section": "",
+    "text": "Hello!\nI am Bella, a Senior Librarian in the Research and Data Services team at SMU Libraries. I help researchers adopt computational, reproducible, and responsible approaches to research, especially across data collection, analysis, publication, and research communication.\nA lot of my work starts with a simple question: how can researchers use new tools well, without losing sight of rigour, openness, and care? I design and teach hands-on workshops in R, Python, Git, and reproducible research tools; evaluate how AI and LLM-based tools can support research workflows; and build programmes that connect researchers, research staff, and academic library communities.\nI currently serve as Vice President of FORCE11, and recently co-chaired the organising committee for FORCE2026. I graduated from Nanyang Technological University in 2018 with an MSc in Information Studies.\nOutside work, I volunteer as an instructor with The Carpentries and I’m rarely far from a detective novel.\nOpen to collaborating on: research-data training, workshops and guest teaching, conference sessions, and projects on AI-in-research or open scholarship. The fastest way to reach me is by email."
   }
 ]
