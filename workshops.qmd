@@ -7,7 +7,7 @@ These are selected workshops and courses I have designed, taught, or co-taught f
 
 ## R & data analysis
 
-- **Introductory R for Social Sciences** — a recurring, multi-session introductory R course for SMU researchers and students, taught since 2023. Current [course site](https://smu-libraries.github.io/r-socsci/); [earlier materials](https://bellaratmelia.github.io/introductory-r-socsci/) remain available.
+- **Introductory R for Social Sciences** — a recurring, multi-session introductory R course for SMU students, taught since 2023. Current [course site](https://smu-libraries.github.io/r-socsci/); [earlier materials](https://bellaratmelia.github.io/introductory-r-socsci/) remain available.
 - [Data Carpentry (Social Sciences with R) for SMU](https://bellaratmelia.github.io/2023-11-29-smulib-dc/) (Nov 2023) — a two-day workshop for PhD students and research staff.
 - [Data Carpentry (Social Sciences with R) for Carnegie Mellon University](https://rsangole.github.io/2023-11-15-cmu-online/) (Nov 2023) — volunteer instructor with The Carpentries.
 
@@ -16,13 +16,25 @@ These are selected workshops and courses I have designed, taught, or co-taught f
 - [Python for Macroeconomics](https://github.com/bellaratmelia/2024-python-macroecons) (Oct 2024) — a hands-on workshop introducing Python for macroeconomic data analysis.
 - Software Carpentry (Python) for TU Delft / University of Twente — volunteer instructor with The Carpentries, [May 2023](https://4turesearchdata-carpentries.github.io/2023-05-30-Twente/) and [Nov 2023](https://4turesearchdata-carpentries.github.io/2023-11-06-twente-online/).
 
+## Bite-sized / Skill Myself Up workshops
+
+I regularly design and teach 90-minute hands-on workshops as part of SMU Libraries’ bite-sized / Skill Myself Up series every semester. These sessions introduce practical tools and methods that researchers, students, and staff can apply immediately in their own work. Open only to SMU community.
+
+Selected topics include:
+
+- Python 101: The Basics
+- Python 101: Tinkering with Pandas DataFrame
+- Python 101: Visualising Your Data in Python
+- Python 101: Polars Exploration
+- Python 101: Tinkering with LLMs via API: Claude, OpenAI, and more
+- Survey Design and Implementation with Qualtrics
+
 ## AI in research workflows
 
 - **FORCE11 FSCI 2025** (Online) — *[AI-Powered Search in Libraries: A Crash Course on the Fundamentals for Library Professionals](https://force11.org/fsci/post/fsci-2025-courses-abstracts/#L15)*, with lead instructor Aaron Tay.
-- **Singapore Rising Scholars Conference 2024** (SMU) — *https://ink.library.smu.edu.sg/library_research/219/*, with Bryan Leow and Dong Danping.
 - **AI for Research Week 2024** (SMU, May 2024):
-  - https://ink.library.smu.edu.sg/ai_research_week/Programme/Programme/3/
-  - https://ink.library.smu.edu.sg/ai_research_week/Programme/Programme/2/, with Aaron Tay and Ooi Kooi Cheng.
+  - *[Try it together: Transcribing your audio with Whisper API](https://ink.library.smu.edu.sg/ai_research_week/Programme/Programme/3/)*
+  - *[Try it together - AI-powered search tools: Elicit, SciSpace, Connected Papers, ResearchRabbit, and Undermind.ai](https://ink.library.smu.edu.sg/ai_research_week/Programme/Programme/2/)*, with Aaron Tay and Ooi Kooi Cheng.
 
 ## Reproducible research & tools
 

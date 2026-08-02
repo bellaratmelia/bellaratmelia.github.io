@@ -7,8 +7,10 @@ Selected examples of my public talks, writing, and moderation in research data s
 
 ## Presentations
 
-- **IATUL 2025** (Shanghai, China) — *Whisper AI Transcription Service for IRB-Compliant Research*.
-- **13th International CALIBER 2022** (BHU, Varanasi, India) — Theme Speaker, *https://ink.library.smu.edu.sg/library_research/204/*.
+- **IATUL 2025** (Shanghai, China) — *Supporting Ethical Research: Implementing Local AI Transcription Services for IRB Compliance*
+- **Singapore Rising Scholars Conference 2024** (SMU) 
+  — *[Streamlined workflow for qualitative data analysis with Whisper and ATLAS.ti](https://ink.library.smu.edu.sg/library_research/219/)*, with Bryan Leow and Dong Danping.
+- **13th International CALIBER 2022** (BHU, Varanasi, India) — Theme Speaker, *[The emerging area of data services: A case of SMU Libraries](https://ink.library.smu.edu.sg/library_research/204/)*.
 
 ## Papers & Articles
 
@@ -18,4 +20,4 @@ Selected examples of my public talks, writing, and moderation in research data s
 
 ## Panels & Moderation
 
-- **SAUL Copyright Seminar 2022** (SMU) — Moderator, *https://ink.library.smu.edu.sg/saulcopyright2022/Program/Recordings_slides/3/*, exploring the implications of Singapore's text-and-data-mining copyright exception for academics and librarians.
+- **SAUL Copyright Seminar 2022** (SMU) — Moderator, *[Panel Discussion on Text and Data Mining](https://ink.library.smu.edu.sg/saulcopyright2022/Program/Recordings_slides/3/)*, exploring the implications of Singapore's text-and-data-mining copyright exception for academics and librarians.

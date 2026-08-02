@@ -61,6 +61,10 @@ format:
 - **Tools and platforms:** GitHub, Quarto, WordPress, LibGuides.
 - **Academic library practice:** liaison librarianship, library instruction, scholarly communication, researcher engagement, and open scholarship.
 
+### Publications & Talks
+
+See the [Talks & Publications](https://bellaratmelia.github.io/talks.html) page for selected presentations, papers, and articles.
+
 ### Honours & Awards
 
 - Winner of LAS Passion Awards 2023

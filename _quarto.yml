@@ -6,7 +6,7 @@ website:
   site-url: https://bellaratmelia.github.io
   description: "Senior Librarian in Research & Data Services at SMU Libraries — reproducible research, AI in research workflows, and data-skills training in R and Python."
   image: images/bella-profile.jpg
-  favicon: images/bella-profile.jpg
+  favicon: images/favicon.svg
   open-graph: true
   twitter-card: true
   page-footer: "This site is made with [Quarto](https://quarto.org/)"
@@ -35,8 +35,5 @@ format:
       - cosmo
       - custom.scss
     toc: true
-    include-in-header:
-      file: header.html
-
-
+    
 

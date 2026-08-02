@@ -1,6 +1,7 @@
 ---
 title: Bella Ratmelia
 image: images/bella-profile.jpg
+image-width: 15em
 toc: false
 description: "I help researchers learn data tools, use AI thoughtfully, and make research workflows more reproducible."
 about:
@@ -20,8 +21,11 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/bellaratmelia/
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/bellaratmelia/
+    - icon: substack
+      text: Substack
+      href: https://bellaratmelia.substack.com/
 ---
 
 # Hello!
