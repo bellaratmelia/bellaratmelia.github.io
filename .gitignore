@@ -4,3 +4,4 @@
 **/*.quarto_ipynb
 .claude
 .DS_Store
+.Rhistory
