@@ -9,9 +9,8 @@ Selected examples of my public talks, writing, and moderation in research data s
 
 - **FORCE2026** — *[Does Agentic Deep Search Converge? Reproducibility Questions for LLM-Driven Literature Discovery](https://ink.library.smu.edu.sg/force2026/Programme/agenda/20/)*, with Aaron Tay and Dong Danping.
 - **IATUL 2025** (Shanghai, China) — *Supporting Ethical Research: Implementing Local AI Transcription Services for IRB Compliance*
-- - **CLSTL 2025** (Gandhinagar, India) — *Library Research Support in the AI Era: New Tools, New Allies, New Possibilities*
-- **Singapore Rising Scholars Conference 2024** (SMU) 
-  — *[Streamlined workflow for qualitative data analysis with Whisper and ATLAS.ti](https://ink.library.smu.edu.sg/library_research/219/)*, with Bryan Leow and Dong Danping.
+- **CLSTL 2025** (Gandhinagar, India) — Invited Speaker, *Library Research Support in the AI Era: New Tools, New Allies, New Possibilities*
+- **Singapore Rising Scholars Conference 2024** (SMU) — *[Streamlined workflow for qualitative data analysis with Whisper and ATLAS.ti](https://ink.library.smu.edu.sg/library_research/219/)*, with Bryan Leow and Dong Danping.
 - **13th International CALIBER 2022** (BHU, Varanasi, India) — Theme Speaker, *[The emerging area of data services: A case of SMU Libraries](https://ink.library.smu.edu.sg/library_research/204/)*.
 - **SAUL Copyright Seminar 2022** (SMU) — Moderator, *[Panel Discussion on Text and Data Mining](https://ink.library.smu.edu.sg/saulcopyright2022/Program/Recordings_slides/3/)*, exploring the implications of Singapore's text-and-data-mining copyright exception for academics and librarians.
 - **LAS Conference 2019** (Singapore) — *Rebranding NTU Library: A Transmedia Approach*, with Samantha Seah and Thavamalar Mohan.
@@ -19,3 +18,4 @@ Selected examples of my public talks, writing, and moderation in research data s
 ## Writing
 
 - **2025** — [*Why University Libraries Should Not Overlook Research Staff*](https://ink.library.smu.edu.sg/library_research/230/), Times Higher Education (Campus).
+- **2024** - [*An AI Assistant to Streamline the Research Process*](https://katinamagazine.org/content/article/resource-reviews/2024/an-ai-assistant-to-streamline-the-research-process), Katina Magazine
